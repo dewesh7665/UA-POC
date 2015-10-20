@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/pre-dexed/debug/classes-96d1d91b63f5b6a8ed626c90a4554db88faff226.jar" />
+    </item>
+    <item
+        jar="/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/pre-dexed/debug/classes-95dc33d76db45f7ba41f7179f5519bbddac3c621.jar" />
+    </item>
+
+</items>
