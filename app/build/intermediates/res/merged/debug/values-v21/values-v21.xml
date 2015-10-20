@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v21/values-v21.xml -->
+    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Android/UA%20POC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v21/values-v21.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance.Material"/>
     <style name="Base.TextAppearance.AppCompat.Body1" parent="android:TextAppearance.Material.Body1"/>
@@ -215,7 +215,7 @@
     <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="android:Widget.Material.TextView.SpinnerItem"/>
     <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="android:Widget.Material.Toolbar.Button.Navigation">
     </style>
-    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/res/values-v21/values-v21.xml -->
+    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Android/UA%20POC/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/res/values-v21/values-v21.xml -->
     <eat-comment/>
     <style name="LandingPageStyle">
         <item name="android:windowBackground">@android:drawable/screen_background_dark_transparent</item>
@@ -225,7 +225,7 @@
         <item name="android:padding">8dp</item>
         <item name="android:windowTranslucentStatus">true</item>
     </style>
-    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v21/values-v21.xml -->
+    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Android/UA%20POC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v21/values-v21.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme.Material">
         <item name="android:windowNoTitle">true</item>
@@ -253,7 +253,7 @@
     </style>
     <style name="Platform.ThemeOverlay.AppCompat.Dark"/>
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/res/values-v21/values-v21.xml -->
+    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Android/UA%20POC/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/res/values-v21/values-v21.xml -->
     <eat-comment/>
     <style name="Widget.UrbanAirship.InAppMessage.Banner" parent="Base.Widget.UrbanAirship.InAppMessage.Banner">
         <item name="android:background">@drawable/ua_iam_background</item>

@@ -9,4 +9,4 @@
         style="@style/Widget.UrbanAirship.InAppMessage.Banner.Card"
         android:id="@+id/in_app_message"/>
 
-</com.urbanairship.push.iam.view.SwipeDismissViewLayout><!-- From: file:/Users/build/workspace/android-library-deploy/urbanairship-sdk/src/main/res/layout-v14/ua_fragment_iam_card.xml --><!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/res/layout-v14/ua_fragment_iam_card.xml -->
+</com.urbanairship.push.iam.view.SwipeDismissViewLayout><!-- From: file:/Users/build/workspace/android-library-deploy/urbanairship-sdk/src/main/res/layout-v14/ua_fragment_iam_card.xml --><!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Android/UA%20POC/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/res/layout-v14/ua_fragment_iam_card.xml -->

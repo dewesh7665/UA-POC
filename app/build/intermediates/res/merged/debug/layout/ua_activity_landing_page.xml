@@ -39,4 +39,4 @@
         android:onClick="onCloseButtonClick"/>
 
 </RelativeLayout>
-<!-- From: file:/Users/build/workspace/android-library-deploy/urbanairship-sdk/src/main/res/layout/ua_activity_landing_page.xml --><!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Projects/Android/Samples/UA_test/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/res/layout/ua_activity_landing_page.xml -->
+<!-- From: file:/Users/build/workspace/android-library-deploy/urbanairship-sdk/src/main/res/layout/ua_activity_landing_page.xml --><!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Android/UA%20POC/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/res/layout/ua_activity_landing_page.xml -->
