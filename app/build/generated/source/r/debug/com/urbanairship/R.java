@@ -136,18 +136,18 @@ public final class R {
 		public static final int ua_ic_close = 0x7f02006b;
 	}
 	public static final class id {
-		public static final int action_button = 0x7f0d0064;
-		public static final int action_buttons = 0x7f0d0067;
-		public static final int action_divider = 0x7f0d0059;
+		public static final int action_button = 0x7f0d0065;
+		public static final int action_buttons = 0x7f0d0068;
+		public static final int action_divider = 0x7f0d005a;
 		public static final int adjust_height = 0x7f0d001b;
 		public static final int adjust_width = 0x7f0d001c;
-		public static final int alert = 0x7f0d0066;
+		public static final int alert = 0x7f0d0067;
 		public static final int always_allow = 0x7f0d0026;
-		public static final int close = 0x7f0d0065;
-		public static final int close_button = 0x7f0d0062;
+		public static final int close = 0x7f0d0066;
+		public static final int close_button = 0x7f0d0063;
 		public static final int compatibility_mode = 0x7f0d0027;
 		public static final int hybrid = 0x7f0d001d;
-		public static final int in_app_message = 0x7f0d0063;
+		public static final int in_app_message = 0x7f0d0064;
 		public static final int never_allow = 0x7f0d0028;
 		public static final int none = 0x7f0d000e;
 		public static final int normal = 0x7f0d000a;

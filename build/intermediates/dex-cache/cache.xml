@@ -2,11 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Applications/ADT/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-c55edda84edee4a6f40f567c25873a3b008a4264.jar" />
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-03d27b542256bbffaacc03de5c3772011d4ba729.jar" />
+    </item>
+    <item
+        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-839dd65174c4118dde9d1f71fa3205ccb12c9e94.jar" />
     </item>
     <item
         jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
@@ -16,18 +23,25 @@
         <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-64c1124a09f619467203c511a3571abe543be536.jar" />
     </item>
     <item
-        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
-        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-cf6e902600e043619159f22704889ebe889ca396.jar" />
-    </item>
-    <item
         jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
         <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-b38303505c8d66465af1c692978e5383f5ca781f.jar" />
+    </item>
+    <item
+        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-148d92c2d4a5bafce876db3d1913158c098f22de.jar" />
+    </item>
+    <item
+        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-c55edda84edee4a6f40f567c25873a3b008a4264.jar" />
     </item>
     <item
         jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
@@ -44,27 +58,6 @@
         <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-f198b6c6354fad5f2b2a034f83738ec87f2f89d6.jar" />
     </item>
     <item
-        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
-        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-839dd65174c4118dde9d1f71fa3205ccb12c9e94.jar" />
-    </item>
-    <item
-        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="69086304ab04f085477a55bf6d99ac70d49413d9">
-        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-84d0cecbf60426c6344630b9fa88321d3163b389.jar" />
-    </item>
-    <item
-        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-148d92c2d4a5bafce876db3d1913158c098f22de.jar" />
-    </item>
-    <item
         jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -72,11 +65,18 @@
         <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-26f4bd69df99e25af98ff6c7b09a8bae878199a7.jar" />
     </item>
     <item
-        jar="/Applications/ADT/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-03d27b542256bbffaacc03de5c3772011d4ba729.jar" />
+        sha1="3bbc19551ee148817d5393440dbcd50a400b832f">
+        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-d50c80f9864dc78b68a361df0f996fa488f2fded.jar" />
+    </item>
+    <item
+        jar="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/Dewesh_MAC/Desktop/Work/Android/UA POC/app/build/intermediates/pre-dexed/debug/classes-cf6e902600e043619159f22704889ebe889ca396.jar" />
     </item>
 
 </items>

@@ -54,7 +54,7 @@
     <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Android/UA%20POC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-es/values-es.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
-    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Android/UA%20POC/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.0/res/values-es/values-es.xml -->
+    <!-- From: file:/Users/Dewesh_MAC/Desktop/Work/Android/UA%20POC/app/build/intermediates/exploded-aar/com.urbanairship.android/urbanairship-sdk/6.3.1/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="ua_notification_button_accept">Aceptar</string>
     <string name="ua_notification_button_buy_now">Comprar ahora</string>
