@@ -3,8 +3,12 @@ package com.test.ua.uatest;
 import android.content.Context;
 import android.util.Log;
 
+import com.urbanairship.actions.ActionValue;
+import com.urbanairship.actions.ShareAction;
 import com.urbanairship.push.BaseIntentReceiver;
 import com.urbanairship.push.PushMessage;
+
+import java.util.Map;
 
 /**
  * @author Dewesh Kumar
@@ -36,7 +40,6 @@ public class IntentReceiver extends BaseIntentReceiver {
     @Override
     protected boolean onNotificationOpened(Context context, PushMessage message, int notificationId) {
         Log.i(TAG, "User clicked notification. Alert: " + message.getAlert());
-
         // Return false to let UA handle launching the launch activity
         return false;
     }
@@ -44,7 +47,10 @@ public class IntentReceiver extends BaseIntentReceiver {
     @Override
     protected boolean onNotificationActionOpened(Context context, PushMessage message, int notificationId, String buttonId, boolean isForeground) {
         Log.i(TAG, "User clicked notification button. Button ID: " + buttonId + " Alert: " + message.getAlert());
-
+        Map<String, ActionValue> actions = message.getActions();
+        if (actions.containsKey(ShareAction.DEFAULT_REGISTRY_NAME) || actions.containsKey(ShareAction.DEFAULT_REGISTRY_SHORT_NAME))  {
+            return true;
+        }
         // Return false to let UA handle launching the launch activity
         return false;
     }
